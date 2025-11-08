@@ -1,0 +1,3 @@
+log_dir: folder\
+base_model: google-bert/bert-base-uncased # Placeholder
+output_dir: folder
